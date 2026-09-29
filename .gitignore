@@ -1,0 +1,10 @@
+# Qoder 会话工作区标记文件(不需要提交)
+.aicoding-chat-workspace
+
+# 本地验证截图(过程产物)
+shot-*.png
+
+# 系统垃圾文件
+Thumbs.db
+desktop.ini
+.DS_Store
